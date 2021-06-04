@@ -1,0 +1,7 @@
+{
+    "wifi": {
+        "hostname": "TiltESP32",
+        "ssid": "Caduana",
+        "password": "12112723"
+    }
+}
