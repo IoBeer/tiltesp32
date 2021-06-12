@@ -1,0 +1,15 @@
+{
+    "wifi": {
+        "hostname": "TiltESP32",
+        "ssid": "YOUR_WIFI_SSID",
+        "password": "YOUR_WIFI_PASSWORD"
+    },
+    "devices": [
+        {
+            "color": "ORANGE",
+            "mac_addr": "EE:BF:38:6B:B1:97",
+            "beer": "Coaiada fail",
+            "endpoint_url": "https://script.google.com/macros/s/AKfycbwNXh6rEWoULd0vxWxDylG_PJwQwe0dn5hdtSkuC4k3D9AXBSA/exec"
+        }
+    ]
+}

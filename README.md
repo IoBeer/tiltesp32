@@ -24,7 +24,7 @@ Please joing the [announce list](https://groups.google.com/g/tiltesp32-announce)
 
 * Modify the `config.json` file to reflect your WiFi network information.
 * Connect your ESP32 board.
-* Upload the project files:
+* Upload project files:
   * `ampy --port /dev/ttyUSB0 put boot.py`
   * `ampy --port /dev/ttyUSB0 put main.py`
   * `ampy --port /dev/ttyUSB0 put config.json`
